@@ -1,5 +1,7 @@
 # Slices of Music 
 
+![Image genereated using Midjourney](album-art.png)
+
 Between 2021 and 2022, I spent a lot of time exploring new methods of writing music. The methods include concepts of algebra, trigonometry, and programmer's combinatorics. The work is then applied as SuperCollider source code, which renders the concepts to audio file. 
 
 A highly interesting aspect of these methods is scalability. Traditional music composition is not at all scalable in that you must explicitly write every note for every part. 
