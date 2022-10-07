@@ -20,6 +20,6 @@ You will see the word "study" appear in the titles. I consider most of these to 
 
 ## ! <3 !
 
-My goals over the next year is to take these discoveries and turn them into proper music. If you would like to support this pursuit of New Music, please join me in support [via Patreon](https://www.patreon.com/cortlandmahoney). 
+My goals over the next year is to take these discoveries and turn them into better music. If you would like to support this pursuit of New Music, please join me in support [via Patreon](https://www.patreon.com/cortlandmahoney). 
 
 These recordings are available under an adapted MIT license. Take them and have fun sampling! 
