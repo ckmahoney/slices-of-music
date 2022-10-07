@@ -1,5 +1,7 @@
 # Slices of Music 
 
+This is a collection of audio files for your listening entertainment. 
+
 ![People near a pool in a tall building](album-art.png)
 
 _Image generated using Midjourney_
@@ -15,6 +17,8 @@ In other words, these methods enable a person to _mass produce reliably good mus
 The title of each recording comes directly from the filename from which it was generated. For a few of the better templates, I made extra renditions. When a title ends with `-a`, `-b`, or `-c`, that means it is another permutation of that template. 
 
 You will see the word "study" appear in the titles. I consider most of these to be etudes. 
+
+## ! <3 !
 
 My goals over the next year is to take these discoveries and turn them into proper music. If you would like to support this pursuit of New Music, please join me in support [via Patreon](https://www.patreon.com/cortlandmahoney). 
 
