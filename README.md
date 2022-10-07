@@ -4,7 +4,9 @@ Between 2021 and 2022, I spent a lot of time exploring new methods of writing mu
 
 A highly interesting aspect of these methods is scalability. Traditional music composition is not at all scalable in that you must explicitly write every note for every part. 
 
-Here I am able to generalize the notes that go into a set of parts. As a result, each of the source files represents a space of recordings. What we have for each recording is simply one permutation of thousands of possible alternatives. In other words, these methods enable a person to _mass produce reliably good music (without a neural network)_. 
+Here I am able to generalize the notes that go into a set of parts. As a result, each of the source files represents a space of recordings. Each recording is simply one permutation of thousands of possible alternatives. 
+
+In other words, these methods enable a person to _mass produce reliably good music (without a neural network)_. 
 
 The title of each recording comes directly from the filename from which it was generated. For a few of the better templates, I made extra renditions. When a title ends with `-a`, `-b`, or `-c`, that means it is another permutation of that template. 
 
