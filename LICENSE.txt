@@ -1,0 +1,21 @@
+MIT License (Adapted)
+
+Copyright (c) 2022 Cortland Keith Mahoney
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of these recordings and associated documentation files (the "Music"), to deal
+in the Music without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Music, and to permit persons to whom the Music is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Music.
+
+THE MUSIC IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE MUSIC OR THE USE OR OTHER DEALINGS IN THE
+MUSIC.
